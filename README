@@ -1,1 +1,15 @@
+## Logging Middleware (Dummy)
+
+This is a simple JavaScript-based dummy logging middleware for testing logging behavior without real API calls.
+
+### Files
+- `logger.js`: Core logging function
+- `app.js`: Test file for dummy logging
+- `Backend/`, `Frontend/`: Placeholder folders for future expansion
+
+### Usage
+Run the logger using:
+
+```bash
+node app.js
 
